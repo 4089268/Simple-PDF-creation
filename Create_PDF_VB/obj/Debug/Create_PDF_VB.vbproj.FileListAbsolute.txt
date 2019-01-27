@@ -2,11 +2,11 @@ C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\Create_PDF_VB.
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\Create_PDF_VB.exe
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\Create_PDF_VB.pdb
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\Create_PDF_VB.xml
+C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\itextsharp.dll
+C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.vbprojResolveAssemblyReference.cache
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.Form1.resources
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.Resources.resources
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.vbproj.GenerateResource.Cache
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.exe
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.xml
 C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.pdb
-C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\bin\Debug\itextsharp.dll
-C:\Users\Salvador\PROYECTOS\Create_PDF_VB\Create_PDF_VB\obj\Debug\Create_PDF_VB.vbprojResolveAssemblyReference.cache

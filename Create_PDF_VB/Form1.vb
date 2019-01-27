@@ -24,8 +24,8 @@ Public Class Form1
         SaveFileDialog1.FileName = ""
         SaveFileDialog1.Filter = "PDF (*.pdf)|*.pdf"
 
-        TextBox1.Text = "INGRESOS POR DIAS DEL 10/10/2017 AL 30/11/2017"
-        TextBox2.Text = "Seleccione una rutaa..."
+        TextBox1.Text = "Listado de Pacientes"
+        TextBox2.Text = "C:\prueba.pdf"
 
 
     End Sub
